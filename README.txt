@@ -5,7 +5,7 @@ This is a secure password manager implemented in Python, utilizing the cryptogra
 Requirements
 
 - Python 3.x
-- cryptography library (install using `pip install cryptography`)
+- cryptography library (install using `pip install cryptography`
 
 Features
 
