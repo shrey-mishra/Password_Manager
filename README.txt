@@ -9,9 +9,9 @@ Requirements
 
 Features
 
-- **Strong Encryption**: Passwords are encrypted using the Fernet symmetric encryption algorithm provided by the cryptography library.
-- **Master Password**: The user needs to provide a master password to access the passwords. This master password is used along with the encryption key to enhance security.
-- **Add and View Passwords**: Users can add new account credentials and view existing ones securely.
+- Strong Encryption**: Passwords are encrypted using the Fernet symmetric encryption algorithm provided by the cryptography library.
+- Master Password**: The user needs to provide a master password to access the passwords. This master password is used along with the encryption key to enhance security.
+- Add and View Passwords**: Users can add new account credentials and view existing ones securely.
 
 Encryption
 
